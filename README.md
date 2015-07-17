@@ -29,7 +29,7 @@
 1. Restart `sd-agent`
 
     ```bash
-    $ sudo service sd-agent restart
+    $ service sd-agent restart
     ```
 
 ## Credits
