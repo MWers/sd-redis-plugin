@@ -17,7 +17,7 @@
     $ pip install -r requirements.txt
     ```
 
-1. Add config to `/etc/sd-agent/config.cfg` (optional, defaults to `localhost:6379`)
+1. Add config to `/etc/sd-agent/config.cfg` (optional)
 
     ```bash
     # Redis
